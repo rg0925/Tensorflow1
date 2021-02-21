@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>IMG-20200817-WA2166.jpg</filename>
+	<path>C:\Users\PC-4\Desktop\New folder\IMG-20200817-WA2166.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1152</width>
+		<height>864</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2000</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>478</ymin>
+			<xmax>365</xmax>
+			<ymax>622</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>2000</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>854</xmin>
+			<ymin>559</ymin>
+			<xmax>1047</xmax>
+			<ymax>629</ymax>
+		</bndbox>
+	</object>
+</annotation>

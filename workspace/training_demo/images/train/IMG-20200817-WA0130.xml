@@ -1,0 +1,26 @@
+<annotation>
+	<folder>500</folder>
+	<filename>IMG-20200817-WA0130.jpg</filename>
+	<path>C:\Users\PC-4\Desktop\Indian-master\training\500\IMG-20200817-WA0130.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>864</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>500</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>293</ymin>
+			<xmax>329</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,19 @@
+
+How to create enviornment in anaconda? 
+--- conda create -n enviornment_name python==3.7.0
+
+how to check enviornment available in the system?
+--- conda env list
+
+how to activate or use enviornment?
+--- conda activate enviornment_name
+
+how to install libraries/packages in bulk [windows without libraries version]
+--- pip install -r all_libraries_with_version
+
+how to check all the libraries in particular enviornment
+--- pip freeze
+
+
+To check dataset from google 
+--- https://datasetsearch.research.google.com
