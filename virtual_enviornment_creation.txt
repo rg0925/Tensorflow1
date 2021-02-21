@@ -17,3 +17,6 @@ how to check all the libraries in particular enviornment
 
 To check dataset from google 
 --- https://datasetsearch.research.google.com
+
+how to calculate python version
+---python --version
