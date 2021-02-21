@@ -1,0 +1,8 @@
+git config --global user.email "rohit.rgit11@gmail.com"
+git config --global user.name "Rohit Gupta"
+git init
+git add .
+git commit -m "commit'
+git remote add origin git@github.com:rg0925/Tensorflow.git
+git push origin master
+sh-keygen -t rsa -b 4096 -C "rohit.rgit11@gmail.com"
